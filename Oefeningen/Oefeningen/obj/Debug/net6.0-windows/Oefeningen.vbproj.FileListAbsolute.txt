@@ -1,0 +1,17 @@
+C:\Users\kevin\source\repos\LearnGithub\Oefeningen\Oefeningen\bin\Debug\net6.0-windows\Oefeningen.exe
+C:\Users\kevin\source\repos\LearnGithub\Oefeningen\Oefeningen\bin\Debug\net6.0-windows\Oefeningen.deps.json
+C:\Users\kevin\source\repos\LearnGithub\Oefeningen\Oefeningen\bin\Debug\net6.0-windows\Oefeningen.runtimeconfig.json
+C:\Users\kevin\source\repos\LearnGithub\Oefeningen\Oefeningen\bin\Debug\net6.0-windows\Oefeningen.dll
+C:\Users\kevin\source\repos\LearnGithub\Oefeningen\Oefeningen\bin\Debug\net6.0-windows\Oefeningen.pdb
+C:\Users\kevin\source\repos\LearnGithub\Oefeningen\Oefeningen\obj\Debug\net6.0-windows\Oefeningen.vbproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\LearnGithub\Oefeningen\Oefeningen\obj\Debug\net6.0-windows\Oefeningen.Form1.resources
+C:\Users\kevin\source\repos\LearnGithub\Oefeningen\Oefeningen\obj\Debug\net6.0-windows\Oefeningen.vbproj.GenerateResource.cache
+C:\Users\kevin\source\repos\LearnGithub\Oefeningen\Oefeningen\obj\Debug\net6.0-windows\Oefeningen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\LearnGithub\Oefeningen\Oefeningen\obj\Debug\net6.0-windows\Oefeningen.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\LearnGithub\Oefeningen\Oefeningen\obj\Debug\net6.0-windows\Oefeningen.AssemblyInfo.vb
+C:\Users\kevin\source\repos\LearnGithub\Oefeningen\Oefeningen\obj\Debug\net6.0-windows\Oefeningen.vbproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\LearnGithub\Oefeningen\Oefeningen\obj\Debug\net6.0-windows\Oefeningen.dll
+C:\Users\kevin\source\repos\LearnGithub\Oefeningen\Oefeningen\obj\Debug\net6.0-windows\refint\Oefeningen.dll
+C:\Users\kevin\source\repos\LearnGithub\Oefeningen\Oefeningen\obj\Debug\net6.0-windows\Oefeningen.pdb
+C:\Users\kevin\source\repos\LearnGithub\Oefeningen\Oefeningen\obj\Debug\net6.0-windows\Oefeningen.genruntimeconfig.cache
+C:\Users\kevin\source\repos\LearnGithub\Oefeningen\Oefeningen\obj\Debug\net6.0-windows\ref\Oefeningen.dll
