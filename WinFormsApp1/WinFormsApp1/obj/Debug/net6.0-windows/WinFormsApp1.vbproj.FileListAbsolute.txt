@@ -16,3 +16,4 @@ C:\Users\kevin\LearnGithubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-window
 C:\Users\kevin\LearnGithubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\Users\kevin\LearnGithubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
 C:\Users\kevin\LearnGithubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\kevin\LearnGithubFork\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.oefening_1_kwadraat_van_getallen.resources

@@ -18,7 +18,7 @@
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
 
-        Dim myform As New Form2
+        Dim myform As New oefening_1_kwadraat_van_getallen
         myform.Show()
         Me.Close()
     End Sub
